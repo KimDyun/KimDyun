@@ -17,9 +17,6 @@
 ## Informations
 
 <div class = pull-right>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 #### 🔗 Links 🔗
 
 ### 📝 Studying 📝
@@ -27,6 +24,10 @@
 
 ### 🛠 Tools & Framworks 🗃
 <img src="https://img.shields.io/badge/Pycharm-Green?style=round-square"/> <img src="Matlab://img.shields.io/badge/Matlab-ff69b4?style=round-square"/> <img src="https://img.shields.io/badge/VScode-blueviolet?style=round-square"/> <img src="https://img.shields.io/badge/Pytorch-blue?style=round-square"/> <img src="https://img.shields.io/badge/Tensorflow-orange?style=round-square"/> <img src="https://img.shields.io/badge/Node.js-critical?style=round-square"/> <img src="https://img.shields.io/badge/IntelliJ-lightgrey?style=round-square"/> 
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
 
 <!--
 **KimDyun/KimDyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
