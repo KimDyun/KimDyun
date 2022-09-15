@@ -1,13 +1,13 @@
 ## 🙋‍♂️ Kim Dyun 🙋‍♂️
 
-### Profiles <br>
-##### Dae-Hyeon Kim (김대현) <br>
-##### E-mail : swslooser@gmail.com <br>
-##### Research Interests <br>
-* ###### Neural engineering <br>
-* ###### Physiological signal processing <br>
-* ###### Graph Neural Networks
-* ###### Biomedical engineering & Healthcare
+### Profiles
+##### Dae-Hyeon Kim (김대현)
+##### E-mail : swslooser@gmail.com
+##### Research Interests
+* ###### Neural engineering  
+* ###### Physiological signal processing  
+* ###### Graph Neural Networks  
+* ###### Biomedical engineering & Healthcare  
 
 #### Bio
 * ###### B.S. in Computer engineering, Kwangwoon Univ., Seoul, Korea.
