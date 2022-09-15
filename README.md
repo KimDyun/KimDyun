@@ -1,7 +1,7 @@
 ## 🙋‍♂️ Kim Dyun 🙋‍♂️
 
 ## Profiles
-### Dae-Hyeon Kim (김대현)
+### Name   : Dae-Hyeon Kim (김대현)
 ### E-mail : swslooser@gmail.com
 ### Research Interests
 * Neural engineering  
@@ -24,7 +24,8 @@
 ### 🛠 Tools & Framworks 🗃
 <img src="https://img.shields.io/badge/Pycharm-Green?style=round-square"/> <img src="Matlab://img.shields.io/badge/Matlab-ff69b4?style=round-square"/> <img src="https://img.shields.io/badge/VScode-blueviolet?style=round-square"/> <img src="https://img.shields.io/badge/Pytorch-blue?style=round-square"/> <img src="https://img.shields.io/badge/Tensorflow-orange?style=round-square"/> <img src="https://img.shields.io/badge/Node.js-critical?style=round-square"/> <img src="https://img.shields.io/badge/IntelliJ-lightgrey?style=round-square"/> 
 
-</br>
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
