@@ -1,7 +1,26 @@
-### ⚡ Kim Dyun ⚡
+### ♂️🙋‍♂️ Kim Dyun ♂️🙋‍♂️
 
+#### Profiles
+##### Dae-Hyeon Kim (김대현)
+##### E-mail : swslooser@gmail.com
+##### Research Interests
+###### * Neural engineering
+###### * Physiological signal processing
+###### * Graph Neural Networks
+###### * Biomedical engineering & Healthcare
+
+#### Bio
+###### B.S. in Computer engineering, Kwangwoon Univ., Seoul, Korea.
+###### Intern in Biomedical Research Division, Korea Institute of Science and Technology (KIST), Seoul, Korea.
+###### (current) M.S. course in Electronics and Communications Engineering,  Kwangwoon Univ., Seoul, Korea.
+
+#### 🔗 Links 🔗
+
+#### 📝 Studying 📝
 <img src="https://img.shields.io/badge/Python-Green?style=round-square"/> <img src="https://img.shields.io/badge/Matlab-ff69b4?style=round-square"/> <img src="https://img.shields.io/badge/C-blueviolet?style=round-square"/> <img src="https://img.shields.io/badge/C++-blue?style=round-square"/> <img src="https://img.shields.io/badge/JavaScript-orange?style=round-square"/> <img src="https://img.shields.io/badge/HTML5-critical?style=round-square"/> <img src="https://img.shields.io/badge/CSS3-lightgrey?style=round-square"/> 
 
+#### 🛠 Tools & Framworks 🗃
+<img src="https://img.shields.io/badge/Python-Green?style=round-square"/> <img src="https://img.shields.io/badge/Matlab-ff69b4?style=round-square"/> <img src="https://img.shields.io/badge/C-blueviolet?style=round-square"/> <img src="https://img.shields.io/badge/C++-blue?style=round-square"/> <img src="https://img.shields.io/badge/JavaScript-orange?style=round-square"/> <img src="https://img.shields.io/badge/HTML5-critical?style=round-square"/> <img src="https://img.shields.io/badge/CSS3-lightgrey?style=round-square"/> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
