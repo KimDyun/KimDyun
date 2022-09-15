@@ -15,9 +15,13 @@
 * **(Current)** M.S. course in Electronics and Communications Engineering,  Kwangwoon Univ., Seoul, Korea.
 
 ## Informations
+
 <div class = pull-right>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
+
 #### 🔗 Links 🔗
 
 ### 📝 Studying 📝
