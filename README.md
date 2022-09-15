@@ -4,8 +4,8 @@
 ##### Dae-Hyeon Kim (김대현)
 ##### E-mail : swslooser@gmail.com
 ##### Research Interests
-* ###### Neural engineering  
-* ###### Physiological signal processing  
+* Neural engineering  
+*  Physiological signal processing  
 * ###### Graph Neural Networks  
 * ###### Biomedical engineering & Healthcare  
 
