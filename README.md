@@ -16,7 +16,7 @@
 
 ## Informations
 
-#### 🔗 Links 🔗
+### 🔗 Links 🔗
 
 ### 📝 Studying 📝
 <img src="https://img.shields.io/badge/Python-Green?style=round-square"/> <img src="https://img.shields.io/badge/Matlab-ff69b4?style=round-square"/> <img src="https://img.shields.io/badge/C-blueviolet?style=round-square"/> <img src="https://img.shields.io/badge/C++-blue?style=round-square"/> <img src="https://img.shields.io/badge/JavaScript-orange?style=round-square"/> <img src="https://img.shields.io/badge/HTML5-critical?style=round-square"/> <img src="https://img.shields.io/badge/CSS3-lightgrey?style=round-square"/>
