@@ -7,7 +7,7 @@
 ### Bio
 * B.S. in Computer engineering, Kwangwoon Univ., Seoul, Korea.
 * Intern in Biomedical Research Division, Korea Institute of Science and Technology (KIST), Seoul, Korea.
-* **(Current)** M.S. course in Electronics and Communications Engineering,  Kwangwoon Univ., Seoul, Korea.
+* **(Current)** M.S./Ph.D. Intergrated Course in Electronics and Communications Engineering,  Kwangwoon Univ., Seoul, Korea.
 
 ### Research Interests
 * Neural engineering  
