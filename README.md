@@ -10,10 +10,11 @@
 * **(Current)** M.S./Ph.D. Intergrated Course in Electronics and Communications Engineering,  Kwangwoon Univ., Seoul, Korea.
 
 ### Research Interests
-* Neural engineering  
+* Neuroengineering  
 * Physiological signal processing  
+* Machine Learning
 * Graph Neural Networks  
-* Biomedical engineering & Healthcare  
+* Biomedical engineering & Healthcare
 
 ### 🔗 Links 🔗
 
